@@ -88,21 +88,21 @@ using namespace std;
 //     return 0;
 // }
 
-int main(){
-    int n;
-    int a=2;
-    bool isprime=true;
-    cout<<"enter the number: ";
-    cin>>n;
-    while(a<=n/2){
-        if(n%a==0){
-            isprime=false;
-            cout<<"not a prime number";
-            break;
-        }
-        a=a+1;}
-    if(isprime){
-        cout<<"prime number";
-    }
-    return 0;
-}
+// int main(){
+//     int n;
+//     int a=2;
+//     bool isprime=true;
+//     cout<<"enter the number: ";
+//     cin>>n;
+//     while(a<=n/2){
+//         if(n%a==0){
+//             isprime=false;
+//             cout<<"not a prime number";
+//             break;
+//         }
+//         a=a+1;}
+//     if(isprime){
+//         cout<<"prime number";
+//     }
+//     return 0;
+// }
