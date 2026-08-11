@@ -20,7 +20,7 @@ int main() {
     int arr2[2][2]; //16 bytes
     unsigned int u = 10; //4 bytes it can store only positive values
     int size = sizeof(a);//4 bytes there is no waay to find the size of a variable in C++ but we can use sizeof() operator to find the size of a variable in bytes
-    cout<<'sahil chutiya'<<'\n';
+    cout<<'sahil'<<'\n';
     cout << "The size of a is: " << size << " bytes" << '\n';
     return 0;
 }
