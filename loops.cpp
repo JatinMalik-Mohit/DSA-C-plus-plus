@@ -31,17 +31,17 @@ using namespace std;
 //     return 0;
 // }
 
-int main(){
-    int n;
-    int sum=0;
-    cout<<"enter nummber till which you want to get sum of odd numbers :";
-    cin>>n;
-    for(int a=1;a<=n;a+=2){
-        sum+=a;
-    }
-    cout<<sum<<"\n";
-    return 0;
-}
+// int main(){
+//     int n;
+//     int sum=0;
+//     cout<<"enter nummber till which you want to get sum of odd numbers :";
+//     cin>>n;
+//     for(int a=1;a<=n;a+=2){
+//         sum+=a;
+//     }
+//     cout<<sum<<"\n";
+//     return 0;
+// }
 
 // int main(){
 //     int n;
