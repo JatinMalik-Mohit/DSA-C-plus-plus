@@ -7,7 +7,6 @@ int main() {
     cout<<"alpha"<<" ";
     cout<<"beta";
     cout<<'\n';
-    
     cout<<"gamma";//if we use single quotes then it will give some integer value or error because single quotes are used for char data type
     int a = 5, b = 10; //4 bytes each
     cout << "The sum of a and b is: " << (a + b) <<'\n';
