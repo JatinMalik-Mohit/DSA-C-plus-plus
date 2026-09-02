@@ -1,4 +1,4 @@
 
-## DSA Using C++
+# DSA Using C++
 
-# Conditional Looping
+## Conditional Looping
