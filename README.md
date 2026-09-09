@@ -1,7 +1,7 @@
 
 # DSA Using C++
 
-## Conditional Looping
+# Conditional Looping
 
 ### Conditional Statements
 
