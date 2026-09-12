@@ -2,5 +2,4 @@
 using namespacestd;
 
 int main{
-  
 }
