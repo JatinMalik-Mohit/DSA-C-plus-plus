@@ -5,3 +5,4 @@
 ## Conditional Statements
 ## Pattern Printing
 ## Sorting
+### Quick Sort
