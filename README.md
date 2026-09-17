@@ -6,3 +6,4 @@
 ## Pattern Printing
 ## Sorting
 ### Quick Sort
+### merge sort
