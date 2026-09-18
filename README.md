@@ -7,3 +7,4 @@
 ## Sorting
 ### Quick Sort
 ### merge sort
+### bubble sort
