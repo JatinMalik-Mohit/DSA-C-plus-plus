@@ -1,3 +1,3 @@
-# sorting## DSA USING C++
+# DSA USING C++
 
 ## sorting
