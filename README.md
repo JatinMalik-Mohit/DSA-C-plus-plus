@@ -5,3 +5,5 @@
 ## searching 
 
 ## GRAPHS
+
+##time complexity 
